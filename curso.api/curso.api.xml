@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retorna status ok, dados do usuario e o token em caso de sucesso</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuarios.RegistroViewModelInput)">
+            <summary>
+            
+            </summary>
+            <param name="registroViewModelInput"></param>
+            <returns>Retorna status ok, dados do usuario e o token em caso de sucesso</returns>
+        </member>
+    </members>
+</doc>
